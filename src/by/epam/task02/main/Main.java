@@ -17,7 +17,7 @@ import java.io.IOException;
 
 public class Main {
 
-    private static final String xmlFileURI = "xml\\menu.xml";
+    private static final String xmlFileURI = "xml/menu.xml";
 
     public static void main(String[] args) throws ParserConfigurationException, IOException, SAXException {
 
